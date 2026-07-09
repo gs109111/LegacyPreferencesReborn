@@ -2,7 +2,7 @@
 <div>
     <h1 align="left" style="">Legacy Preferences Reborn</h1>
     <p align="left">
-    Work-In-Progress recreation of the classic System Preferences
+    Work-In-Progress recreation of the classic System Preferences & Continuation of the Legacy Preferences Project
         <br>
     </p>
 </div>
