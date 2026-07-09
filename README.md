@@ -40,10 +40,9 @@
 ### Panes
 | Status | Pane(s)
 | ---- | ---- |
-| ☑️ Almost Done, or Finished | General(Appearance) |
+| ☑️ Almost Ready/Implemented| General(Appearance) |
 | 🛠️ WIP | All the rest (Dock & Menu Bar, Accessibillity, Displays, etc.) |
-| ☠️ Dead until stated otherwise, just there for completion | Apple ID, Family Sharing, Screen Time, Time Machine, Startup Disk,  Software Update |
-**Note:** Unsupported panes (excluding those there for completion) are disabled for now!
+| 🎤 TBA | Apple ID, Family Sharing, Screen Time, Time Machine, Startup Disk,  Software Update |
 
 ## Contribution
 If anyone wishes to contribute towards pane stuff or finds some problems, feel free to open an issue or PR. I will respond and evaluate propositions as quick as possible.
